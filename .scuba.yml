@@ -1,0 +1,6 @@
+image: matthewtingum/sdcc:4.2.0
+
+aliases:
+  test:
+    script:
+    - sdcc --version
