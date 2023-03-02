@@ -5,6 +5,7 @@ RUN apt-get update      \
     apt-get install -y --no-install-recommends \
         bzip2               \
         ca-certificates     \
+        gputils             \
         wget                \
  && apt-get clean           \
  && rm -rf /var/lib/apt/lists/*

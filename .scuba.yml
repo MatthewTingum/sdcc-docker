@@ -1,4 +1,4 @@
-image: matthewtingum/sdcc:4.2.0
+image: matthewtingum/sdcc:4.2.0-1
 
 aliases:
   test:
